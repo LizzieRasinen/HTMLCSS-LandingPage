@@ -206,3 +206,25 @@ text-align: center;
     font-weight: 700;
     line-height: 1;
 }
+.full-banner {
+    padding: 0 15px;
+    margin: 50px 0;
+    position: relative;
+}
+.full-banner :before"" {
+    position: absolute;
+    border: 1px solid #ffffff 30px 30px 50px 50px;
+    z-index: 1;
+}
+.full-banner-image {
+    flex: 0 0 58.333333%;
+    background-image: url('../img/vista.jpg');
+    height: 400px;
+    position: top center;
+    size: cover;
+}
+.full-banner-sidebar {
+    flex: 0 0 41.666667;
+    background-color: #364147;
+    padding: 30px;
+}
