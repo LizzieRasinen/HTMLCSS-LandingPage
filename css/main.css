@@ -109,8 +109,8 @@ section {
 }
 .nav-list li a {
     font-size: 16px;
-    font-weight: 700;
     text-transform: uppercase;
+    font-weight: 700;
     letter-spacing: .2px;
 }
 .profile {
