@@ -106,6 +106,7 @@ section {
     padding-left: 0;
     width: 575px;
     margin-top: 10px;
+    letter-spacing: .2px;
 }
 .nav-list li a {
     font-size: 16px;
