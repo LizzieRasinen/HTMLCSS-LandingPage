@@ -39,11 +39,8 @@ section {
 .btn {
     cursor: pointer;
     border: none0;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-right: 12px;
-    padding-left: 12px;
-    border-radius: 25px;
+    padding: 6px 12px;
+    border-radius: 3px;
     line-height: 1.4;
 }
 .btn-default {
@@ -56,10 +53,7 @@ section {
 }
 .form-control {
     display: block;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding: 6px 12px;
     border: solid;
     border-color: #a0a0a0;
     color: #8598a2;
