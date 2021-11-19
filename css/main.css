@@ -242,7 +242,7 @@ text-align: center;
     color: #637f94;
     line-height: 1;
 }
-.full-banner-sidebar:after h4 {
+.full-banner-sidebar hr:after {
     content: "";
     width: 100px;
     height: 1px;
